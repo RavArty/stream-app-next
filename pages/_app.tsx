@@ -14,6 +14,8 @@ export default function MyApp({ Component, pageProps }) {
         }
     }, [])
 
+
+
     return (
         <ThemeProvider theme={false ? themeDark : themeLight}>
             <CssBaseline />

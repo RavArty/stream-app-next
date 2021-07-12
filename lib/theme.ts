@@ -1,4 +1,4 @@
-import grey from '@material-ui/core/color/grey'
+import grey from '@material-ui/core/colors/grey'
 import { createTheme } from '@material-ui/core/styles'
 
 const themeDark = createTheme({
